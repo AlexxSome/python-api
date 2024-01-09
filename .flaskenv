@@ -1,0 +1,2 @@
+FLASK_APP=Clientflix
+FLASK_DEBUG=True
